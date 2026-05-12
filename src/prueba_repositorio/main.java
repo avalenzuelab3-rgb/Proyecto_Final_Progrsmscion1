@@ -5,7 +5,8 @@ public class main {
 
         int numero1 = 10;
         int numero2 = 5;
-
+//angel Gabriel
+        
         int suma = numero1 + numero2;
         int resta = numero1 - numero2;
         int multiplicacion = numero1 * numero2;
