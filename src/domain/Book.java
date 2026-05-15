@@ -13,9 +13,9 @@ public class Book extends Material{
         return super.getPages() > 300;
     }
     
-    
+    @Override
     public double calculateFine() {
-		return 0; //Por ahora lo dejo asi mientras se implementa clase User
+		return 0; //TODO Por ahora lo dejo asi mientras se implementa clase User
     	
     }
 
