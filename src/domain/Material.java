@@ -1,7 +1,7 @@
 package domain;
 
 public abstract class Material {
-	
+	//Clase abstracta base de todo material de biblioteca. Guarda los datos comunes y obliga a que `Book` y `Magazine` tengan su propio comportamiento.
 	private String title;
 	private int code;
 	private int year;

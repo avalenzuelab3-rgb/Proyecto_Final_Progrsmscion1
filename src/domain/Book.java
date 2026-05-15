@@ -1,7 +1,7 @@
 package domain;
 
 public class Book extends Material{
-	
+	//Representa un libro normal de la biblioteca: código, título, autor, año y disponibilidad.	
     private String autor;
 
     public Book(String title, String autor, int pages, int code, int year, boolean available) {

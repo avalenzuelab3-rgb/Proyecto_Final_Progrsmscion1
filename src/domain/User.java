@@ -1,7 +1,7 @@
 package domain;
 
 public class User {
-	
+	//Guarda la información de cada usuario: carnet/ID, nombre, límite de préstamos y préstamos activos.
 	private String id;
 	private String name;
 	private String carnet;
